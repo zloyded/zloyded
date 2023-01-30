@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @zloyded
-- 👀 I’m interested in python/golang project
-- 💞️ I’m looking to collaborate on some developers who make startup/any kind of interesting project(s) whit python/golang+postgres/mongo. I can assists with administrating infrastructure as a code. Writing come parts od code for your(s) project(s).
-- 📫 How to reach me: telegram @dedoque
+👋 Hi, I’m @zloyded
